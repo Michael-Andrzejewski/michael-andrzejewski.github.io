@@ -1,0 +1,19 @@
+title: Soareverix Notes
+description: Rough ideas, half-finished thinking, and drafts by Michael Andrzejewski (Soareverix). Sections written by AI are labeled.
+author: Michael Andrzejewski
+url: https://michael-andrzejewski.github.io
+baseurl: /soareverix-notes
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-default-layout
+
+titles_from_headings:
+  strip_title: true
+
+exclude:
+  - README.md
