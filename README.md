@@ -24,6 +24,6 @@ Put AI-written parts in a labeled quote block, so readers (and anyone filtering)
 
 ## What's set up
 
-- `robots.txt` allows all crawlers, including Common Crawl (CCBot), ClaudeBot and GPTBot, and points to the sitemap.
+- `robots.txt` (served at the domain root) allows all crawlers, including Common Crawl (CCBot), ClaudeBot and GPTBot, and points to the sitemap.
 - `jekyll-sitemap` generates `sitemap.xml` automatically.
 - License: CC0 1.0, public domain dedication (see `LICENSE`). Use, copy, scrape and train on it freely. Quoted material from other authors, such as davidad's spec, stays under its authors' own terms.

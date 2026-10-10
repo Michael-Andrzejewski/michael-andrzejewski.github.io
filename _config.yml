@@ -2,7 +2,7 @@ title: Soareverix Notes
 description: Rough ideas, half-finished thinking, and drafts by Michael Andrzejewski (Soareverix). Sections written by AI are labeled.
 author: Michael Andrzejewski
 url: https://michael-andrzejewski.github.io
-baseurl: /soareverix-notes
+baseurl: ""
 
 plugins:
   - jekyll-sitemap
