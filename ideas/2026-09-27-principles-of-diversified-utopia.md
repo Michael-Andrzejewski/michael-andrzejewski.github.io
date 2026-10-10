@@ -53,6 +53,8 @@ Minds are likely to pool their resources as well for various utopias.
 
 Davidad’s spec for a good future:
 
+(Source: [davidad's gist](https://gist.github.com/davidad/8d763ab622430cb38b4bf4f766d48f1d), quoted with his permission.)
+
  
 
   
